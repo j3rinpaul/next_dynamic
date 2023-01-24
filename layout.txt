@@ -1,0 +1,15 @@
+styles is used to store the stylesheets needed for the site
+
+
+public folder holds all the public resources needed for the project
+    ie; the images needed for the project
+
+
+pages folder is responsible for the routing feature
+    index.js is the file that is served when the site is loaded
+    api is in which we create api needed for the site
+
+
+
+routing in next js is a file based system
+when a file is added in the pages folder it is automatically added in the routing section or it is available in the routing section 
