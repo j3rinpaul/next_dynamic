@@ -1,7 +1,7 @@
 //file is named in [] because next treats the [] as dynamic routes
 import {useRouter} from 'next/router'
 
-//userouter hook is used to obtain router  realted details 
+//userouter hook is used to obtain router  related details 
 //such as
 // in this case the product id is the params we need to obtain from the query
 
